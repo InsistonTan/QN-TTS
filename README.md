@@ -1,3 +1,5 @@
+🌐 中文 / [English](README.en.md)
+
 # <img src="assets/logo256.png" align="left" width="128" height="128"/> QN-TTS (Quiet Night TTS)
 [![GitHub issues by-label](https://img.shields.io/github/issues/InsistonTan/QN-TTS?color=blue)](https://github.com/InsistonTan/KeyMappingsTool/issues)
 
@@ -6,7 +8,7 @@
 ## 功能特点
 
 - 支持多种 TTS 引擎
-- 快速输入窗口
+- 快速输入
 - 声音克隆（取决于所选引擎）
 - 全局快捷键
 - 常用语
