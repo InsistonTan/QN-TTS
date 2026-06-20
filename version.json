@@ -1,0 +1,8 @@
+{
+  "latestVersion": "1.0.0",
+  "downloadUrl": "https://github.com/InsistonTan/QN-TTS",
+  "releaseNotes": {
+    "zh-CN": "1.增加xxx功能\n2.修复xxx\n",
+    "en-US": "1.Added xxx feature\n2.Fixed xxx issues"
+  }
+}
