@@ -15,7 +15,7 @@
 
 ## 下载
 
-请前往 Releases 页面下载最新版本。
+请前往 [Releases](https://github.com/InsistonTan/QN-TTS/releases) 页面下载最新版本。
 
 ## 系统要求
 
@@ -24,7 +24,7 @@
 
 ## 问题反馈
 
-欢迎通过 GitHub Issues 提交问题反馈或功能建议。
+欢迎通过 Issues 提交问题反馈或功能建议。
 
 ## 支持项目
 
