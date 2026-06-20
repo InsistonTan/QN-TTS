@@ -2,7 +2,7 @@
 
 # <img src="assets/logo256.png" align="left" width="128" height="128"/> QN-TTS (Quiet Night TTS)
 
-[![GitHub issues by-label](https://img.shields.io/github/issues/InsistonTan/QN-TTS?color=blue)](https://github.com/InsistonTan/KeyMappingsTool/issues)
+[![GitHub issues by-label](https://img.shields.io/github/issues/InsistonTan/QN-TTS?color=blue)](https://github.com/InsistonTan/QN-TTS/issues)
 
 A text-to-speech (TTS) tool designed for in-game voice communication and other voice-related scenarios.
 
