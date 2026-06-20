@@ -1,4 +1,4 @@
-## 赞助支持
+## 赞助支持 (Donation)
 
 微信赞赏码 (Wechat Donation QR Code)
 
