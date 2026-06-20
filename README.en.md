@@ -22,7 +22,19 @@ Please visit the [Releases](https://github.com/InsistonTan/QN-TTS/releases) page
 ## System Requirements
 
 - Windows 10 (19041 or later)  
-- Windows 11  
+- Windows 11
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/main_en.png" width="45%"/>
+  <img src="assets/screenshots/main2_en.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/cp_en.png" width="45%"/>
+  <img src="assets/screenshots/settings_en.png" width="45%"/>
+</p>
 
 ## Issue Reporting
 
