@@ -38,7 +38,7 @@
 
 ## 问题反馈
 
-欢迎通过 Issues 提交问题反馈或功能建议。
+欢迎通过 [Issues](https://github.com/InsistonTan/QN-TTS/issues) 提交问题反馈或功能建议。
 
 ## 支持项目
 
