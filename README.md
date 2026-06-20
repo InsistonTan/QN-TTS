@@ -1,4 +1,5 @@
-# QN-TTS (Quiet Night TTS)
+# <img src="assets/logo256.png" align="left" width="128" height="128"/> QN-TTS (Quiet Night TTS)
+[![GitHub issues by-label](https://img.shields.io/github/issues/InsistonTan/QN-TTS?color=blue)](https://github.com/InsistonTan/KeyMappingsTool/issues)
 
 一款文本转语音（TTS）工具, 可用于游戏内或其他语音场景的文字转语音交流。
 
