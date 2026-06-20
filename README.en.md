@@ -38,7 +38,7 @@ Please visit the [Releases](https://github.com/InsistonTan/QN-TTS/releases) page
 
 ## Issue Reporting
 
-You are welcome to submit issues or feature requests via Issues.
+You are welcome to submit issues or feature requests via [Issues](https://github.com/InsistonTan/QN-TTS/issues).
 
 ## Support the Project
 
