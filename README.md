@@ -24,6 +24,18 @@
 * Windows 10（19041 及以上）
 * Windows 11
 
+## 软件截图
+
+<p align="center">
+  <img src="assets/screenshots/main.png" width="45%"/>
+  <img src="assets/screenshots/main2.png" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/cp.png" width="45%"/>
+  <img src="assets/screenshots/settings.png" width="45%"/>
+</p>
+
 ## 问题反馈
 
 欢迎通过 Issues 提交问题反馈或功能建议。
