@@ -48,7 +48,7 @@ QN-TTS 完全免费。
 
 ## 许可证
 
-Copyright © 2026 QN-TTS
+Copyright © 2026 InsistonTan
 
 All Rights Reserved.
 
