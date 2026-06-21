@@ -48,7 +48,7 @@ If you find this software helpful, you are welcome to support its continued deve
 
 ## License
 
-Copyright © 2026 QN-TTS
+Copyright © 2026 InsistonTan
 
 All Rights Reserved.
 
