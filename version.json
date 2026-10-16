@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0.1",
   "downloadUrl": "https://github.com/InsistonTan/QN-TTS",
   "releaseNotes": {
-    "zh-CN": "1.增加xxx功能\n2.修复xxx\n",
-    "en-US": "1.Added xxx feature\n2.Fixed xxx issues"
+    "zh-CN": "1.新增: 快捷输入框的拖拽移动 \n2.修复:edge-tts请求403的问题\n",
+    "en-US": "1.Added: drag-and-move support for the quick input overlay\n 2.Fixed: EdgeTTS 403 errors"
   }
 }
